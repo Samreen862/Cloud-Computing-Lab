@@ -1,4 +1,4 @@
-<img width="783" height="615" alt="image" src="https://github.com/user-attachments/assets/7a3d3059-5f70-4b54-9433-4c6af154dade" /># Cloud-Computing-Lab
+
 https://www.overleaf.com/read/vqbqgcdvygpg#f9e397
 
 ## Kaggle Notebook
