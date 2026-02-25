@@ -6,7 +6,7 @@ https://www.overleaf.com/read/vqbqgcdvygpg#f9e397
 (Note: Notebook is private due to Kaggle identity verification requirement)
 
 
-## 🔗 Google Colab Notebook
+## Google Colab Notebook
 
 You can view and run the project notebook in Google Colab:
 
